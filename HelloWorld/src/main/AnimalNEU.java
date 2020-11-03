@@ -1,6 +1,6 @@
 package main;
 
-public class Animal {
+public class AnimalNEU {
 	
 	String name;
 	int age;
@@ -9,7 +9,7 @@ public class Animal {
 	
 	
 	
-	public Animal(String name, int age, double weight, String kind) {
+	public AnimalNEU(String name, int age, double weight, String kind) {
 		super();
 		this.name = name;
 		this.age = age;
